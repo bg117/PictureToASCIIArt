@@ -28,9 +28,9 @@ public static class BitmapHelpers
         return newImage;
     }
 
-    public static Bitmap ToGrayscale(this Bitmap input)
+    public static Bitmap ToGrayscale(this Bitmap input, int maxWidth, int maxHeight)
     {
-        Bitmap resized = input.ScaleBitmap(input.Width, 200);
+        Bitmap resized = input.ScaleBitmap(maxWidth, maxHeight);
         Bitmap grayscale = new(resized, new Size(resized.Width * 2, resized.Height));
 
         for (int x = 0; x < grayscale.Width; x++)
