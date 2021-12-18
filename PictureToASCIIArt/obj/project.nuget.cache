@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cUOtCS2u7zmXTPQyst8BI7hsPlrbHFWLyhp2SDF92vLrMEPTKcUUCeSu21cJUTMVi+0/f8XK8hfPwAkZJ+T7CA==",
+  "dgSpecHash": "FEY0doacom27SrWHd/T3ojVdifhgyBo4JTHK+r1hAlgX7v9/bRolnZP34Fb6wNT7Pnj25uyjnUl2PNTZ4+jybw==",
   "success": true,
-  "projectFilePath": "E:\\repo\\pictoascii\\PictureToASCIIArt\\PictureToASCIIArt\\PictureToASCIIArt.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel-Rafael\\Source\\Repos\\new\\PictureToASCIIArt\\PictureToASCIIArt\\PictureToASCIIArt.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel-Rafael\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Gabriel-Rafael\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"

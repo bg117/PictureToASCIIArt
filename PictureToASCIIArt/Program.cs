@@ -23,8 +23,12 @@ if (0 < args.Length)
             if (1 < args.Length)
             {
                 string[] exportOptions = args[1].Split(':', 2);
-                file = exportOptions[1];
-                exportToFile = true;
+
+                if (exportOptions[0] == "--to")
+                {
+                    file = exportOptions[1];
+                    exportToFile = true;
+                }
             }
 
             Bitmap bmp = new(options[1]);

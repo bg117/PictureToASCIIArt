@@ -128,11 +128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repo\\pictoascii\\PictureToASCIIArt\\PictureToASCIIArt\\PictureToASCIIArt.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel-Rafael\\Source\\Repos\\new\\PictureToASCIIArt\\PictureToASCIIArt\\PictureToASCIIArt.csproj",
       "projectName": "PictureToASCIIArt",
-      "projectPath": "E:\\repo\\pictoascii\\PictureToASCIIArt\\PictureToASCIIArt\\PictureToASCIIArt.csproj",
+      "projectPath": "C:\\Users\\Gabriel-Rafael\\Source\\Repos\\new\\PictureToASCIIArt\\PictureToASCIIArt\\PictureToASCIIArt.csproj",
       "packagesPath": "C:\\Users\\Gabriel-Rafael\\.nuget\\packages\\",
-      "outputPath": "E:\\repo\\pictoascii\\PictureToASCIIArt\\PictureToASCIIArt\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel-Rafael\\Source\\Repos\\new\\PictureToASCIIArt\\PictureToASCIIArt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel-Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
