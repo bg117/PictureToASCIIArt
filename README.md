@@ -11,10 +11,10 @@ Converts images to ASCII art
 #### Optional flags
 
 `--to:<file-path>` : Writes the ASCII art to `<file-path>`.  
-`--max-height:<int>` : Sets `<int>` as the maximum height of the output ASCII art, in characters-height.  
+`--max-height:<int>` : Sets `<int>` as the maximum height of the output ASCII art, in characters-length.  
 `--max-width:<int>` : Sets `<int>` as the maximum width of the output ASCII art, in characters-width.
 
-##### Illustration of characters-width and characters-height
+##### Illustration of characters-width and characters-length
 
 ![Illustration](images/illustration-of-char-width-and-length.png)
 
