@@ -16,7 +16,7 @@ Converts images to ASCII art
 
 ##### Illustration of characters-width and characters-height
 
-[Illustration](/images/illustration-of-char-width-and-length.png)
+![Illustration](images/illustration-of-char-width-and-length.png)
 
 #### Example usage
 
