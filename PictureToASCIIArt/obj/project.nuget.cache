@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZO1+iQ366bTGOws78Gfuu2XXHcbPt8m/bMcurZWvLQQga7sx5APBuQ8LTpF1YghosYBDhgiIWgbRk4dX/FTzg==",
+  "success": true,
+  "projectFilePath": "H:\\root_usb\\PicToASCII\\PictureToASCIIArt\\PictureToASCIIArt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel-Rafael\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
